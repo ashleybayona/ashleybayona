@@ -19,14 +19,14 @@
 
 ###
 
-<p>
-  <img align="right" src="https://i.pinimg.com/originals/04/9c/05/049c05294bb38c86df4d3c99555196b5.gif" width="200" style="margin-top: -20px;">
+<div>
+  <img align="right" src="https://i.pinimg.com/originals/88/60/be/8860be235f76c10d2846660714287910.gif" width="250"">
   <ul>
     <li>👨‍💻 Currently developing a full ERP & E-commerce with FastAPI to sharpen my backend skills.</li>
     <li>📚 I'm currently learning Docker, GCP, and preparing for AWS AI Practitioner.</li>
     <li>🚀 Future Goals: Specialize in Data Science & AI, focusing on Machine Learning, Deep Learning, and model training/deployment.</li>
   </ul>
-</p>
+</div>
 <br clear="right">
 
 ---
