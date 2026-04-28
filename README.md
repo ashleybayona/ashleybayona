@@ -13,21 +13,26 @@
 
 <p align="center">
   <a href="https://github.com/ashleybayona">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Backend+Developer;Always+compiling+new+knowledge&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?color=EE5A9F&lines=Software+Engineering+Student;Backend+Developer;Always+compiling+new+knowledge&center=true&width=380&height=45">
   </a>
 </p>
 
 ###
 
-<div align="center">
-  <img align="right" src="https://i.pinimg.com/originals/07/ba/9e/07ba9e0b5d39435907daf805c99b7552.gif" width="180">
-  <ul align="left">
-    <li>👨‍💻 Currently developing a full ERP & E-commerce with FastAPI to <br> sharpen my backend skills.</li>
-    <li>📚 I'm currently learning Docker, GCP, and preparing for AWS AI Practitioner.</li>
-    <li>🚀 Future Goals: Specialize in Data Science & AI, focusing on Machine Learning,<br> Deep Learning, and model training/deployment.</li>
-  </ul>
-</div>
-<br clear="right">
+<img align="right" src="https://i.pinimg.com/originals/07/ba/9e/07ba9e0b5d39435907daf805c99b7552.gif" width="180">
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am an undergraduate Software Engineer at UNMSM. I'm expanding my expertise in backend architecture and system scalability to build robust and efficient solutions. I love to learn and build something new, productive, innovative and creative, such as optimizing logistics through automation and data.  
+**I am interested in Backend Development, Cloud Computing, and AI & Data Science.**
+- 🌱 I’m currently learning ...
+  - Docker
+  - Google Cloud Platform
+  - AWS AI & ML Scholars
+- 👨‍💻 Currently developing a full ERP & E-commerce (V'CLAR) with FastAPI and PostgreSQL to sharpen my backend skills.
+- 👯 I’m looking forward to collaborate on open source projects.
+- Outside tech, 📚 I love to read books, hit the gym 🏋️‍♀️, listen to music 🎧, and cook delicious food 🍳.
+- 📫 Reach out to me at: <a href="ashley.bayonav@gmail.com">ashley.bayonav@gmail.com</a>
 
 ---
 
