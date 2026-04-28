@@ -69,3 +69,19 @@
 </div>
 
 ---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Connect%20with%20me-white?style=for-the-badge&logoColor=white&color=24292e" height="30" style="vertical-align: middle;"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ashley.bayonav/" target="_blank">
+    <img src="https://img.icons8.com/fluency/35/000000/instagram-new.png" style="vertical-align: middle;" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ashley-bayona/" target="_blank">
+    <img src="https://img.icons8.com/fluency/35/000000/linkedin.png" style="vertical-align: middle;" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ashley.bayonav@gmail.com">
+    <img src="https://img.icons8.com/fluency/35/000000/apple-mail.png" style="vertical-align: middle;" alt="Email"/>
+  </a>
+</p>
