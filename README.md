@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" src="https://i.pinimg.com/originals/07/ba/9e/07ba9e0b5d39435907daf805c99b7552.gif" width="180">
+<img align="right" src="https://i.pinimg.com/originals/07/ba/9e/07ba9e0b5d39435907daf805c99b7552.gif" width="250">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
