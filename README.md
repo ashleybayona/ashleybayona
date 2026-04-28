@@ -17,10 +17,6 @@
   </a>
 </p>
 
-###
-
-<h2 align="left">About me</h2>
-
 <div align="center">
   <img align="right" alt="GIF" height="200px" src="https://i.pinimg.com/originals/04/9c/05/049c05294bb38c86df4d3c99555196b5.gif" />
 
@@ -32,6 +28,10 @@
     </ul>
   </div>
 </div>
+
+<br>
+<br>
+<br>
 
 ---
 
