@@ -20,11 +20,11 @@
 ###
 
 <div align="center">
-  <img align="right" src="https://i.pinimg.com/originals/88/60/be/8860be235f76c10d2846660714287910.gif" height="150" width="auto">
+  <img align="right" src="https://i.pinimg.com/originals/07/ba/9e/07ba9e0b5d39435907daf805c99b7552.gif" width="180">
   <ul align="left">
-    <li>👨‍💻 Currently developing a full ERP & E-commerce with FastAPI to sharpen my backend skills.</li>
+    <li>👨‍💻 Currently developing a full ERP & E-commerce with FastAPI to <br> sharpen my backend skills.</li>
     <li>📚 I'm currently learning Docker, GCP, and preparing for AWS AI Practitioner.</li>
-    <li>🚀 Future Goals: Specialize in Data Science & AI, focusing on Machine Learning, Deep Learning, and model training/deployment.</li>
+    <li>🚀 Future Goals: Specialize in Data Science & AI, focusing on Machine Learning,<br> Deep Learning, and model training/deployment.</li>
   </ul>
 </div>
 <br clear="right">
