@@ -19,9 +19,9 @@
 
 ###
 
-<div>
-  <img align="right" src="https://i.pinimg.com/originals/88/60/be/8860be235f76c10d2846660714287910.gif" width="250"">
-  <ul>
+<div align="center">
+  <img align="right" src="https://i.pinimg.com/originals/88/60/be/8860be235f76c10d2846660714287910.gif" height="150" width="auto">
+  <ul align="left">
     <li>👨‍💻 Currently developing a full ERP & E-commerce with FastAPI to sharpen my backend skills.</li>
     <li>📚 I'm currently learning Docker, GCP, and preparing for AWS AI Practitioner.</li>
     <li>🚀 Future Goals: Specialize in Data Science & AI, focusing on Machine Learning, Deep Learning, and model training/deployment.</li>
